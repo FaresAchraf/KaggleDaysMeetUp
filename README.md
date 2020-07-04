@@ -1,0 +1,3 @@
+-Kaggle days MeetUp Competetion 2020
+-First comptetion
+-Second Place In The Private Leaderboard
